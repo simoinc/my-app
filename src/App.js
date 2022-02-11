@@ -52,7 +52,7 @@ function App() {
 
   return(
     <div className="App">
-      <input type="text" placeholder='Enter your name' ref={objectInput}/>
+      <input type="text" placeholder='Enter your name 123' ref={objectInput}/>
       <button onClick={clearInput}> Clear the field </button>
     </div>
   );
